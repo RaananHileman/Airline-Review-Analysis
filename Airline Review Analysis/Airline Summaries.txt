@@ -1,0 +1,11 @@
+Relevant airlines, flights, min, average, max
+Singapore Airlines, SIA, 1485,65,136,239
+Qatar Airways, QTR,8037,44,	148,239
+All Nippon Airways, ANA, 3067,38,90,238
+Emirates, UAE, 2393,82,166,239
+Japan Airlines, JAL,2534,44,100,239
+Cathay Pacific, CPA,1324,35,136,239
+Turkish Airlines, THY,2593,58,116,239
+Air France, AFR,4236,39,103,239
+EVA Airways, EVA,734,70,135,239
+Korean Air, KAL,83454,133,238
