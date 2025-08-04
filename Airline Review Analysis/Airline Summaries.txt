@@ -1,4 +1,4 @@
-Airline, Airline Code, Total Flights, lights, Min time, Average Time, Max Time
+Airline, Airline Code, Total Flights, Min time, Average Time, Max Time
 Singapore Airlines, SIA, 1485,65,136,239
 Qatar Airways, QTR,8037,44,	148,239
 All Nippon Airways, ANA, 3067,38,90,238
@@ -8,4 +8,4 @@ Cathay Pacific, CPA,1324,35,136,239
 Turkish Airlines, THY,2593,58,116,239
 Air France, AFR,4236,39,103,239
 EVA Airways, EVA,734,70,135,239
-Korean Air, KAL,83, 454,133,238
+Korean Air, KAL,834,54,133,238
